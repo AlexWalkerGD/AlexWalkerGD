@@ -1,6 +1,6 @@
 <h1 align="left"> 👋 Hi, I'm Alex!</h1>
 
-- 🔥 I'm 22 years old, I work as a game developer for 3 years using unity and unreal engine.
+- 🔥 I work as a game developer for 3 years using unity and unreal engine.
 - 💼 I currently work at the company GHC Invest
 - 👀 I’m interested in being part of projects that require programming and game design.
 - 🌱 I'm learning about the Unreal engine and improving myself.
