@@ -1,6 +1,6 @@
 <h1 align="left"> 👋 Hi, I'm Alex!</h1>
 
-- 🔥 I work as a game developer for 3 years using unity and unreal engine.
+- 🔥 I work as a game developer for 4 years using unity and unreal engine.
 - 💼 I'm currently looking for an opportunity.
 - 👀 I’m interested in being part of projects that require programming and game design.
 - 🌱 I'm learning about the Unity engine and improving myself.
@@ -9,11 +9,13 @@
 <a href="https://linkedin.com/in/alex-walkergd" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=linkedin"/>
 </a>
+
 <a href="https://instagram.com/alexwalker.br/">
 <img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=instagram"/>
 </a>
-<a href="alexwalker0019@gmail.com">
-<img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=gmail"/>
+
+<a href="https://discord.com/channels/1236909806997082163/1236909807508783197">
+<img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=discord"/>
 </a>
 
 ## ⚒️ Tech Stack 
