@@ -1,9 +1,9 @@
 <h1 align="left"> 👋 Hi, I'm Alex!</h1>
 
 - 🔥 I work as a game developer for 3 years using unity and unreal engine.
-- 💼 I currently work at the company GHC Invest
+- 💼 I'm currently looking for an opportunity.
 - 👀 I’m interested in being part of projects that require programming and game design.
-- 🌱 I'm learning about the Unreal engine and improving myself.
+- 🌱 I'm learning about the Unity engine and improving myself.
 
 ## 🔎 Contact
 <a href="https://linkedin.com/in/alex-walkergd" target="_blank">
