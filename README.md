@@ -10,11 +10,11 @@
 <img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/alexwalker.br/">
+<a href="https://instagram.com/alexwalkergd">
 <img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=instagram"/>
 </a>
 
-<a href="https://discord.com/channels/1236909806997082163/1236909807508783197">
+<a href="https://discord.gg/9acZCBgn">
 <img align="center" src="https://img.shields.io/badge/-alexwalker-05122A?style=flat&logo=discord"/>
 </a>
 
