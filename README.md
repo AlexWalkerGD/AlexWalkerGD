@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Instagram-61DBFB?style=for-the-badge&logo=instagram&logoColor=E1306C&color=white" target="_blank"></a> 
 </a>
 
-<a href="https://discord.gg/9acZCBgn">
+<a href="https://discord.gg/YVsTPYJe">
 <img src="https://img.shields.io/badge/Discord-61DBFB?style=for-the-badge&logo=discord&logoColor=white&color=%235851D8" target="_blank"></a> 
 </a>
 
